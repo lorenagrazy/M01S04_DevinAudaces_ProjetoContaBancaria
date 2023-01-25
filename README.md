@@ -27,11 +27,11 @@
   
    
 <div align="center">
-The bank account was developed with the purpose <br> of providing the following data: 
-🪙 Customer Registration
-🪙 Deposits
-🪙 Looting
-🪙 Balance query
+The bank account was developed with the purpose <br> of providing the following data: <br>
+🪙 Customer Registration <br>
+🪙 Deposits <br>
+🪙 Looting <br>
+🪙 Balance query 
 </div>
 
 <h2 align="center"> :computer: Technologies used </h2>

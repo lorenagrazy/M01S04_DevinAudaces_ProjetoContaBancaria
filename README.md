@@ -30,12 +30,12 @@
 The bank account was developed with the purpose <br> of providing the following data:
 <br>
 <br>
-🪙 Customer Registration <br>
-
-🪙 Deposits <br>
-
-🪙 Looting <br>
-
+🪙 Customer Registration 
+   <br>
+🪙 Deposits 
+   <br>
+🪙 Looting
+   <br>
 🪙 Balance query 
 </div>
 

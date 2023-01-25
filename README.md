@@ -27,8 +27,9 @@
   
    
 <div align="center">
-The bank account was developed with the purpose <br> of providing the following data: <br>
-
+The bank account was developed with the purpose <br> of providing the following data:
+<br>
+<br>
 🪙 Customer Registration <br>
 
 🪙 Deposits <br>

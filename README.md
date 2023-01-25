@@ -1,5 +1,5 @@
 <div align="center">
-<img  width="170px" src="/images/favicon.png" alt="logo" >
+<img  width="150px" src="/images/favicon.png" alt="logo" >
 </div>
 
 <h1 align="center" font-size="20px">BANK ACCOUNT</h1>

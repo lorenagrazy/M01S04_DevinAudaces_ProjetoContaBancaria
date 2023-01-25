@@ -28,9 +28,13 @@
    
 <div align="center">
 The bank account was developed with the purpose <br> of providing the following data: <br>
+
 🪙 Customer Registration <br>
+
 🪙 Deposits <br>
+
 🪙 Looting <br>
+
 🪙 Balance query 
 </div>
 

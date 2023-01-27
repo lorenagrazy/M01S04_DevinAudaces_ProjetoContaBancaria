@@ -3,17 +3,92 @@
 
 <head>
   <meta charset="UTF-8">
+  <title>Bank Account</title>
+  <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bank Account</title>
-  <link rel="stylesheet" type="text/css" href="/index.css" />
-  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css'>
+  <link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
+  <link rel="stylesheet" href="./index.css">
+
 </head>
 
 <body>
+  <nav id="navbar">
+    <img id="image" src="../logomarca.png"></img>
+
+  </nav>
 
 
-  <script src="/index.js"></script>
+
+  <div class="container">
+    <div id="signup">
+      <div class="signup-screen">
+        <div class="space-bot text-center">
+          <h1>LOGIN</h1>
+          <div class="divider"></div>
+        </div>
+
+        <form class="form-register" method="post" name="register" novalidate>
+
+          <div class="input-field col s6">
+            <input id="first-name" type="text" class="validate" required>
+            <label for="first-name">Full name</label>
+          </div>
+
+          <div class="input-field col s6">
+            <input id="last-name" type="text" class="validate" required>
+            <label for="number-document">CPF</label>
+          </div>
+
+          <div class="input-field col s6">
+            <input id="email" type="email" name="email" ng-model="email" class="validate" required>
+            <label for="cell-phone">Cell Phone</label>
+          </div>
+
+          <div class="input-field col s6">
+            <input id="password" type="password" name="password" ng-model="password" ng-minlength='6' class="validate"
+              required>
+            <label for="password">Password</label>
+          </div>
+
+          <div class="input-field col s6">
+            <input id="password" type="password" name="password" ng-model="password" ng-minlength='6' class="validate"
+              required>
+            <label for="password">Confirm Password</label>
+          </div>
+
+          <div class="space-top text-center">
+
+            <button ng-disabled="form-register.$invalid" class="waves-effect waves-light btn done">
+              <i class="material-icons left"></i> Clean
+            </button>
+
+            <button type="button" class="waves-effect waves-light btn cancel">
+              <i class="material-icons left"></i> Send
+            </button>
+
+          </div>
+
+        </form>
+      </div>
+    </div>
+
+  </div>
+  <footer id="footer">
+    <div class="footer_1">2023 LG Pagamentos S.A - Instituição de Pagamento. 18.069.018/0690-180690
+      Rua Niteroi, 1235 - Ipatinga, MG - 35169-290 </div>
+
+    <div class="footer_2">
+
+
+
+
+
+    </div>
+  </footer>
+
 </body>
+
 
 </html>

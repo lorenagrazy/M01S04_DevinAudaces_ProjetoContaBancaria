@@ -1,1 +1,0 @@
-const formulario = document.getElementById('form-cadastro')

@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500&display=swap');
+
+* {
+	box-sizing: border-box;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+body {
+	background-image: url(../pic2.jpg);
+	background-repeat: none none;
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+	justify-content: space-between;
+	min-height: 100vh;
+	margin: 20px;
+	margin-right: 400px;
+
+}
+
+.container {
+	background-color: #AF6D1F;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	width: 400px;
+	max-width: 100%;
+	margin: 35px;
+
+}
+
+.header {
+	border-bottom: 1px solid white;
+	background-color: #4C2406;
+	padding: 20px 40px;
+	color: white;
+
+}
+
+.header h2 {
+	margin: 0;
+}
+
+.form {
+	padding: 30px 40px;
+}
+
+.form-control {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	position: relative;
+	font-weight: bold;
+}
+
+.form-control label {
+	display: inline-block;
+	margin-bottom: 5px;
+
+}
+
+.form-control input {
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+}
+
+.form-control input:focus {
+	outline: 0;
+	border-color: #777;
+}
+
+.form button {
+	background-color: #4C2406;
+	border: 2px solid #4C2406;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 20px;
+	width: 100%;
+}
+
+
+select {
+	outline: 0;
+	border-color: #777;
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%
+}

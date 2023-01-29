@@ -1,5 +1,5 @@
 <div align="center">
-<img  width="150px" src="/svg.svg" alt="logo" >
+<img  width="150px" src="/png.png" alt="logo" >
 </div>
 
 <h1 align="center" font-size="20px">BANK ACCOUNT</h1>

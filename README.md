@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<a href="https://lorenagrazy.github.io/M01S04_DevinAudaces_Bank-Account-Project/">⚙️Veja como funciona</
+<a href="https://lorenagrazy.github.io/M01S04_DevinAudaces_ProjetoContaBancaria">⚙️Veja como funciona</
 <div/>  
   
 <br>

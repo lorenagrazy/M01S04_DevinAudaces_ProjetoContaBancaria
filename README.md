@@ -2,44 +2,44 @@
 <img  width="150px" src="/png.png" alt="logo" >
 </div>
 
-<h1 align="center" font-size="20px">BANK ACCOUNT</h1>
+<h1 align="center" font-size="20px">Conta Bancária</h1>
 
 <div align="center" >
-   Design of a bank account system for individuals. <br> Developed in the Course DevinHouse.
+   Projeto de um sistema de conta bancária para pessoas físicas. <br> Desenvolvido no Curso DevinHouse.
 </div>
 <br>
 
-<h1 align="center" > :hammer: Operation of the project </h1>
+<h1 align="center" > :hammer: Funcionamento do projeto </h1>
 
 <p align="center" >
-<img  width="500px" src="" alt="modelo" >
+<img  width="500px" src="./func1.png" alt="modelo" > <br>
+<img  width="500px" src="./func2.png" alt="modelo" >
 </p>
 
 
 <div align="center">
-<a href="https://lorenagrazy.github.io/M01S04_DevinAudaces_Bank-Account-Project/">⚙️See how it works</
+<a href="https://lorenagrazy.github.io/M01S04_DevinAudaces_Bank-Account-Project/">⚙️Veja como funciona</
 <div/>  
   
 <br>
 
 
-<h2 align="center"> :clipboard: About the Project </h2>
+<h2 align="center"> :clipboard: Sobre o Projeto</h2>
   
    
 <div align="center">
-The bank account was developed with the purpose <br> of providing the following data:
+A conta bancária foi desenvolvida com o objetivo <br> de fornecer os seguintes dados:<br>
 <br>
-<br>
-🪙 Customer Registration 
+🪙 Cadastro de Clientes 
    <br>
-🪙 Deposits 
+🪙 Depósitos 
    <br>
-🪙 Looting
+🪙 Saques
    <br>
-🪙 Balance query 
+🪙 Consulta de saldo
 </div>
 
-<h2 align="center"> :computer: Technologies used </h2>
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <div align="center">
 - HTML
 - CSS

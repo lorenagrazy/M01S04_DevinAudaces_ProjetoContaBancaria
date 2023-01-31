@@ -1,8 +1,8 @@
 <div align="center">
-<img  width="150px" src="/png.png" alt="logo" >
+ <img  width="100px" src="/png.png" alt="logo" ><h1 align="center" font-size="20px">Conta Bancária</h1>
 </div>
 
-<h1 align="center" font-size="20px">Conta Bancária</h1>
+
 
 <div align="center" >
    Projeto de um sistema de conta bancária para pessoas físicas. <br> Desenvolvido no Curso DevinHouse.

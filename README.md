@@ -1,5 +1,5 @@
 <div align="center">
- <img  width="100px" src="/png.png" alt="logo" ><h1 align="center" font-size="20px">Conta Bancária</h1>
+<h1 align="center" font-size="20px"> Conta Bancária</h1>
 </div>
 
 
